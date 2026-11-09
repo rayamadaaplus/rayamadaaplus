@@ -162,10 +162,12 @@ I also work with 3D modeling and game modding, combining technical skills with c
 
 <div align="center">
 
-<a href="https://github.com/rayamadaaplus?tab=repositories">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rayamadaaplus&repo=Notulenx+&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/rayamadaaplus/Notulenx">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rayamadaaplus&repo=Notulenx&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/rayamadaaplustab=repositories">
+
+<!-- Project 2 (Ganti NAMA-REPO-2 dengan nama repo publikmu yang lain) -->
+<a href="https://github.com/rayamadaaplus/AI-HS">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rayamadaaplus&repo=AI-HS&theme=tokyonight&hide_border=true" />
 </a>
 
