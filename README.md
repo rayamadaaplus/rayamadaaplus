@@ -11,7 +11,7 @@ Building interactive experiences, intelligent applications, beautiful interfaces
 
 <p>
 <a href="https://github.com/YaspiGX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.roblox.com/"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" /></a>
+<a href="https://www.roblox.com/id/users/5647188903/profile"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" /></a>
 <a href="https://www.nexusmods.com/"><img src="https://img.shields.io/badge/Nexus_Mods-E5A34D?style=for-the-badge&logo=nexusmods&logoColor=white" /></a>
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
