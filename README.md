@@ -152,7 +152,9 @@ I also work with 3D modeling and game modding, combining technical skills with c
 
 **Tools & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,railway,docker" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker" />
+</p>
 
 </div>
 
@@ -162,18 +164,12 @@ I also work with 3D modeling and game modding, combining technical skills with c
 
 <div align="center">
 
+<!-- Pastikan ganti rayamadaaplus setelah "repo=" dengan nama repo PUBLIC milikmu tanpa spasi -->
 <a href="https://github.com/rayamadaaplus/Notulenx">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rayamadaaplus&repo=Notulenx&theme=tokyonight&hide_border=true" />
-</a>
-
-<!-- Project 2 (Ganti NAMA-REPO-2 dengan nama repo publikmu yang lain) -->
-<a href="https://github.com/rayamadaaplus/AI-HS">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rayamadaaplus&repo=AI-HS&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rayamadaaplus&repo=rayamadaaplus&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
-
-*Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your actual public repository names.*
 
 ---
 
@@ -181,7 +177,7 @@ I also work with 3D modeling and game modding, combining technical skills with c
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=rayamadaaplus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"
+    src="https://github-trophies.vercel.app/?username=rayamadaaplus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"
     width="100%"
     alt="GitHub Profile Trophies"
   />
@@ -193,13 +189,12 @@ I also work with 3D modeling and game modding, combining technical skills with c
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rayamadaaplus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayamadaaplus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rayamadaaplus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rayamadaaplus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rayamadaaplus&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=rayamadaaplus&theme=tokyonight&hide_border=true" />
 
 </div>
 
