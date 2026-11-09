@@ -162,11 +162,11 @@ I also work with 3D modeling and game modding, combining technical skills with c
 
 <div align="center">
 
-<a href="https://github.com/YaspiGX?tab=repositories">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YaspiGX&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/rayamadaaplus?tab=repositories">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rayamadaaplus&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/YaspiGX?tab=repositories">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YaspiGX&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/rayamadaaplustab=repositories">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rayamadaaplus&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -207,7 +207,7 @@ I also work with 3D modeling and game modding, combining technical skills with c
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YaspiGX&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayamadaaplus&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
