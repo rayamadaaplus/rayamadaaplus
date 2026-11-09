@@ -200,7 +200,7 @@ I also work with 3D modeling and game modding, combining technical skills with c
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YaspiGX/YaspiGX/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/rayamadaaplus/rayamadaaplus/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 
 </div>
 
