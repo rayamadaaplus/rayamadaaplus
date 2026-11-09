@@ -166,7 +166,7 @@ I also work with 3D modeling and game modding, combining technical skills with c
 
 <!-- Pastikan ganti rayamadaaplus setelah "repo=" dengan nama repo PUBLIC milikmu tanpa spasi -->
 <a href="https://github.com/rayamadaaplus/Notulenx">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rayamadaaplus&repo=rayamadaaplus&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rayamadaaplus&repo=Notulenx&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
