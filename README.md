@@ -1,55 +1,54 @@
  <!-- HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hey%2C+I'm+Rayi+%F0%9F%91%8B;Roblox+Game+Developer;Creative+Developer+%26+Digital+Creator;Building+Ideas+Into+Reality." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hey%2C+I'm+Rayi+%F0%9F%91%8B;Roblox+Game+Developer;Software+%26+AI+Developer;UI%2FUX+Designer+%26+Security+Enthusiast;Building+Ideas+Into+Reality." alt="Typing SVG" />
+
+<p><b>Game Developer · Software Engineer · Digital Creator</b></p>
 
 <p>
-  <b>Game Developer · Software Developer · 3D Creator</b>
+Building interactive experiences, intelligent applications, beautiful interfaces, and exploring digital security.
 </p>
 
 <p>
-  Turning creative ideas into interactive experiences, powerful applications, and digital creations.
-</p>
-
-<p>
-  <a href="https://github.com/YaspiGX">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.roblox.com/">
-    <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
-  </a>
-  <a href="https://www.nexusmods.com/">
-    <img src="https://img.shields.io/badge/Nexus_Mods-E5A34D?style=for-the-badge&logo=nexusmods&logoColor=white" />
-  </a>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+<a href="https://github.com/YaspiGX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.roblox.com/"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" /></a>
+<a href="https://www.nexusmods.com/"><img src="https://img.shields.io/badge/Nexus_Mods-E5A34D?style=for-the-badge&logo=nexusmods&logoColor=white" /></a>
+<a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:172554,100:0F172A&height=2&section=header" width="100%" />
 
 </div>
 
-<!-- ABOUT -->
 ## `01` — About Me
 
 ```yaml
 name: Rayi
 role: Independent Developer & Digital Creator
+
 focus:
   - Roblox Game Development
-  - AI & Full-Stack Development
+  - Software, Web & AI Engineering
+  - UI/UX Design
+  - Cybersecurity & Penetration Testing
   - 3D Modeling & Game Modding
+
 currently_exploring:
-  - Game Systems Architecture
-  - AI Integration
-  - Interactive Experiences
-philosophy: "Build. Experiment. Improve. Repeat."
+  - Multiplayer Game Architecture
+  - AI-powered Applications
+  - Modern Web Technologies
+  - Interface & Experience Design
+  - Web & Network Security
+  - Vulnerability Research
+
+philosophy: "Build. Create. Secure. Innovate."
 ```
 
-I'm a developer and digital creator passionate about building things that combine technology, creativity, and interactive experiences.
+I'm a developer and digital creator passionate about technology, software engineering, interactive experiences, and digital security.
 
-From designing multiplayer game systems in Roblox to developing AI-powered web applications and creating custom 3D assets, I enjoy exploring different areas of development and turning ideas into reality.
+I enjoy building multiplayer game systems, developing modern web applications powered by AI, designing intuitive user interfaces, and exploring cybersecurity through ethical hacking and security research.
+
+I also work with 3D modeling and game modding, combining technical skills with creativity to bring ideas to life.
 
 ---
 
@@ -61,33 +60,37 @@ From designing multiplayer game systems in Roblox to developing AI-powered web a
 
 ### 🎮 Game Development
 
-Building interactive gameplay experiences and multiplayer systems.
+Creating interactive gameplay experiences and multiplayer systems.
 
 - Roblox Studio & Luau
 - Gameplay Mechanics
 - Multiplayer Systems
 - UI/UX Implementation
+- Game Systems Architecture
 - Game Optimization
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI & Software Development
+### 💻 Software, Web & Security Engineering
 
-Developing modern applications powered by APIs and AI technologies.
+Building modern applications, designing user experiences, and exploring digital security.
 
-- Python & FastAPI
-- React & Vite
-- JavaScript & TypeScript
-- LLM Integration
+- Full-Stack Web Development
+- AI & LLM Integration
 - REST API Development
+- UI/UX Design
+- Application & Network Security
+- Penetration Testing
+- Vulnerability Assessment
+- Ethical Hacking
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 3D & Digital Creation
+### 🎨 3D Modeling & Game Modding
 
 Creating digital assets and custom content for games.
 
@@ -96,18 +99,20 @@ Creating digital assets and custom content for games.
 - Custom Game Assets
 - Daz 3D
 - Game Modding
+- Nexus Mods
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Infrastructure & Tools
+### ⚙️ Infrastructure & Development Tools
 
-Exploring development environments, deployment, and infrastructure.
+Exploring development environments and deployment technologies.
 
-- Linux
+- Linux & Command Line
 - Git & GitHub
-- Vercel & Railway
 - Cloud Deployment
+- Server Management
+- Network Infrastructure
 - Development Environments
 
 </td>
@@ -116,28 +121,38 @@ Exploring development environments, deployment, and infrastructure.
 
 ---
 
-## `03` — Tech Stack
+## `03` — Tech Stack & Tools
 
 <div align="center">
 
-### Game Development & 3D
+### 🎮 Game Development & 3D
 
 <img src="https://skillicons.dev/icons?i=robloxstudio,lua,blender" />
 
-### Web Development & AI
+### 💻 Software, Web & AI
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,vite" />
-
-### Tools & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,vite,html,css" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Groq_AI-000000?style=flat-square&logo=groq&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
-<img src="https://img.shields.io/badge/Nexus_Mods-E5A34D?style=flat-square&logo=nexusmods&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
+
+### 🛡️ Cybersecurity & Networking
+
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,docker" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+
+### ⚙️ Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,linux,docker" />
 
 </div>
 
@@ -171,9 +186,9 @@ Exploring development environments, deployment, and infrastructure.
 
 <div align="center">
 
-### Thanks for stopping by! ✨
+### Thanks for visiting my profile! ✨
 
-*Always learning. Always building. Always creating.*
+*Build. Create. Secure. Innovate.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172554,100:0F172A&height=100&section=footer" width="100%" />
 
