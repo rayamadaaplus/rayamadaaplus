@@ -126,14 +126,29 @@ I also work with 3D modeling and game modding, combining technical skills with c
 <img src="https://img.shields.io/badge/Groq_AI-000000?style=flat-square&logo=groq&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 
-**Cybersecurity & Networking**
 
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,docker" />
+<div align="center">
 
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+### 🛡️ Cybersecurity & Networking
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,docker" />
+</p>
+
+<p>
+  <img height="38" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" />
+  <img height="38" src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" />
+  <img height="38" src="https://cdn.simpleicons.org/metasploit/2596CD" alt="Metasploit" />
+  <img height="38" src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Groq_AI-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+</p>
+
+</div>
+
 
 **Tools & Infrastructure**
 
@@ -163,9 +178,11 @@ I also work with 3D modeling and game modding, combining technical skills with c
 ## `05` — GitHub Achievements
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YaspiGX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=rayamadaaplus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"
+    width="100%"
+    alt="GitHub Profile Trophies"
+  />
 </div>
 
 ---
@@ -174,13 +191,13 @@ I also work with 3D modeling and game modding, combining technical skills with c
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YaspiGX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rayamadaaplus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaspiGX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayamadaaplus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YaspiGX&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rayamadaaplus&theme=tokyonight&hide_border=true" />
 
 </div>
 
